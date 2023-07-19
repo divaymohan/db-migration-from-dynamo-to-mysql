@@ -2,7 +2,7 @@
 
 ## Samlpe collection in dynamo db:- 
 
-```
+```json
 {
   "id": {
     "S": "sample"
