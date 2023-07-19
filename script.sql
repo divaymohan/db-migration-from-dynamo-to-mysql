@@ -1,5 +1,3 @@
-DROP IF EXIST config;
-DROP IF EXIST keyValues;
 CREATE TABLE config (
     id VARCHAR(256) PRIMARY KEY,
     body_type VARCHAR(256) DEFAULT NULL,
